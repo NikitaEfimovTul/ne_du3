@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T16:53:04.106Z" agent="5.0 (X11)" etag="iXVeP2he75AHfOMPVVhX" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T16:53:48.207Z" agent="5.0 (X11)" etag="KNd__LRGDTEt0pf82vsk" version="13.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2700" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TA29UdsAY2ALtwSmK4wX-16" value="Out:&quot;Není to trojúhelník&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="980" y="390" width="120" height="50" as="geometry" />
+          <mxGeometry x="960" y="389" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1pqkbPeO-eUzYkjbVZvm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TA29UdsAY2ALtwSmK4wX-18" target="1pqkbPeO-eUzYkjbVZvm-23">
           <mxGeometry relative="1" as="geometry">
